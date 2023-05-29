@@ -1,7 +1,7 @@
 # labKafka
 Produzindo e consumindo mensagem no kafka com java
 
-##Comando kafka
+#Comandos kafka
 #Criar tópico
 kafka-topics --bootstrap-server localhost:9092 --topic <nome_topico> --create --partitions 3 --replication-factor 1
 
